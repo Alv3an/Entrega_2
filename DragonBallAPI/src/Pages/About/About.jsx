@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import Footer from "../../Components/Footer/Footer";
+import Footer from "../../components/Footer/Footer";
 const About = () => {
   return (
     <main className="new-page">
